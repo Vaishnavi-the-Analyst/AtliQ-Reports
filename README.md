@@ -48,6 +48,5 @@ This project is aimed at achieving the following key objectives:
 ## Report Links
 Customer Performance Report <>     
 Market Performance and Sales Targets Comparison Report <>          
-Profit and Loss Reports by Fiscal Year <>    
-Profit and Loss Reports by Months <>  
+Profit and Loss Reports by Fiscal Year and by Months <>    
 Profit and Loss Reports by Markets <>           
