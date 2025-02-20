@@ -46,7 +46,12 @@ This project is aimed at achieving the following key objectives:
 - Adaptability in learning and applying new Excel features and functions
 
 ## Report Links
-Customer Performance Report <>     
-Market Performance and Sales Targets Comparison Report <>          
-Profit and Loss Reports by Fiscal Year and by Months <>    
-Profit and Loss Reports by Markets <>           
+<a href="https://github.com/Vaishnavi-the-Analyst/AtliQ-Reports/blob/main/Customer%20Performance%20Report%20.pdf"> Customer Performance Report </a>            
+<a href="https://github.com/Vaishnavi-the-Analyst/AtliQ-Reports/blob/main/Market%20Performance%20Vs%20Target%20Report.pdf "> Market Performance and Sales Targets Comparison Report </a>                
+<a href="https://github.com/Vaishnavi-the-Analyst/AtliQ-Reports/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf"> Profit and Loss Reports by Fiscal Year </a>                  
+<a href="https://github.com/Vaishnavi-the-Analyst/AtliQ-Reports/blob/main/P%20%26%20L%20Statement%20by%20Months.pdf"> Profit and Loss Reports by Months </a>                      
+<a href="https://github.com/Vaishnavi-the-Analyst/AtliQ-Reports/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf"> Profit and Loss Reports by Markets </a>              
+
+
+
+
